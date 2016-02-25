@@ -1,0 +1,69 @@
+<!--hi-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application Version</key>
+	<string>12.0.0.0</string>
+	<key>Date</key>
+	<string>2016-02-05T19:17:43Z</string>
+	<key>Features</key>
+	<string>5</string>
+	<key>Major Version</key>
+	<integer>1</integer>
+	<key>Minor Version</key>
+	<integer>1</integer>
+	<key>Tracks</key>
+	<dict>
+		<key>100001</key>
+		<dict>
+			<key>Album</key>
+			<string>Made With Ezvid</string>
+			<key>Artist</key>
+			<string>Aalborg Soundtracks</string>
+			<key>Disc Number</key>
+			<integer>1</integer>
+			<key>Name</key>
+			<string>Bow Bells</string>
+			<key>Play Count</key>
+			<integer>0</integer>
+			<key>Purchased</key>
+			<true/>
+			<key>Sort Album</key>
+			<string>Made With Ezvid</string>
+			<key>Sort Artist</key>
+			<string>Aalborg Soundtracks</string>
+			<key>Sort Name</key>
+			<string>Bow Bells</string>
+			<key>Track ID</key>
+			<integer>100001</integer>
+			<key>Track Number</key>
+			<integer>46</integer>
+			<key>Track Type</key>
+			<string>Remote</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>All Items</key>
+			<true/>
+			<key>Description</key>
+			<string></string>
+			<key>Name</key>
+			<string>Bow Bells</string>
+			<key>Playlist ID</key>
+			<integer>10001</integer>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key>
+					<integer>100001</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>Show Content Ratings</key>
+	<true/>
+</dict>
+</plist>
